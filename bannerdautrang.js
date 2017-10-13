@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup)
-			$("#myModal").html("<a href='https://goo.gl/M28HGo' target='_blank'><img src='https://lh3.googleusercontent.com/YiwKDwl0ZKNKrwF1zlR1ihCySOhLX2kf9TpCF7sVAE8GO9Xpe2mbUOTHUIThmlhzV5vAYXqp2A=w1366-h768-rw-no' width='500px'/><br/>Nôi thất sofa giá rẻ quận Gò Vấp </a>. 0918358839 . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/M28HGo' target='_blank'><img src='http://sofatailoc.com/wp-content/uploads/2016/05/sofa-van-phong-cuc-dep.jpg' width='500px'/><br/>Công ty nội thất Tài Lộc </a>. 0918358839 . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
